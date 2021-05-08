@@ -11,3 +11,4 @@ document.addEventListener('DOMContentLoaded', function(){
       this.classList.toggle('checked');
     })
   }
+})
